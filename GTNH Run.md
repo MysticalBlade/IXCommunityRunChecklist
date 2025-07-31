@@ -3,38 +3,35 @@
 ## Objectives:
 
 ### Stone Age
-- [ ] get a bed
-- [ ] get food
-	- [ ] rush healing axe as fast as possible to ignore food requirements
-	- [ ] make cooking for blockheads full kitchen for all the extra hearts (long term)
-- [ ] get cotton
-- [ ] get tools (tinker's and basic gt ones?)
-- [ ] get smeltery
-- [ ] iron
-- [ ] bronze
-- [ ] get to steam power
-- [ ] basic storage (mass drawers, crafting stations with compressed chests)
+- [ ] Get a bed
+- [ ] Get food
+	- [ ] Rush healing axe as fast as possible to ignore food requirements
+	- [ ] Make cooking for blockheads full kitchen for all the extra hearts (long term)
+- [ ] Get cotton
+- [ ] Get tools (tinker's and basic gt ones?)
+- [ ] Get smeltery
+- [ ] Iron
+- [ ] Bronze
+- [ ] Get to steam power
+- [ ] Basic storage (mass drawers, crafting stations with compressed chests)
 ### Bronze/Steam Age
-- [ ] alumite
+- [ ] Alumite
 - [ ] TiC Hammer
-- [ ] get to the bricked blast furnace (BBF)
-	- [ ] get steel
+- [ ] Get to the bricked blast furnace (BBF)
+	- [ ] Get steel
 		- 1 block of coke consumed every 2400 sec
 		- 1 block of coke gets made every 810 sec
-- [ ] get to the steam tier ore processing (steam grinder multi + steam oven multi)
-- [ ] go to twilight forest
-- [ ] tool upgrades
-- [ ] nether
-	- acquire sulphur there
-- [ ] get rubber source (stickreed and rubber trees)
-- [ ] get to high pressure steam
-- [ ] steel steam multis for better ore proc early game
-- [ ] steam oven for better smelting
-- [ ] circuits
-- [ ] get to LV
+- [ ] Get to the steam tier ore processing (steam grinder multi + steam oven multi)
+- [ ] Go to twilight forest
+- [ ] Tool upgrades
+- [ ] Nether
+	- Acquire sulphur there
+- [ ] Get rubber source (stickreed and rubber trees)
+- [ ] Get to high pressure steam
+- [ ] Circuits
 ### LV
-- [ ] automate treefarm
-- [ ] deciding which powergen we're using
+- [ ] Automate treefarm
+- [ ] Deciding which powergen we're using
     - Steam
 	- Oil
     - Some other obscure thing
